@@ -1,2 +1,2 @@
-# tanoC_Script
+# tanoc_script
 楽しいスクリプト

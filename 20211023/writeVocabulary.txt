@@ -1,0 +1,68 @@
+if vocabulary.include?("address")
+    puts name + ': ' + vocabulary
+end
+
+if vocabulary.include?("asaas:receipt")
+    puts name + ': ' + vocabulary
+end
+
+if vocabulary.include?("kingaku")
+    puts name + ': ' + vocabulary
+end
+
+if vocabulary.include?("kubun")
+    puts name + ': ' + vocabulary
+end
+
+if vocabulary.include?("n-kana")
+    puts name + ': ' + vocabulary
+end
+
+if vocabulary.include?("name")
+    puts name + ': ' + vocabulary
+end
+
+if vocabulary.include?("nonNegativeInteger")
+    puts name + ': ' + vocabulary
+end
+
+if vocabulary.include?("shokugyo")
+    puts name + ': ' + vocabulary
+end
+
+if vocabulary.include?("string")
+    puts name + ': ' + vocabulary
+end
+
+if vocabulary.include?("tel-number")
+    puts name + ': ' + vocabulary
+end
+
+if vocabulary.include?("y-kana")
+    puts name + ': ' + vocabulary
+end
+
+if vocabulary.include?("yago")
+    puts name + ': ' + vocabulary
+end
+
+if vocabulary.include?("yymm")
+    puts name + ': ' + vocabulary
+end
+
+if vocabulary.include?("yymmdd")
+    puts name + ': ' + vocabulary
+end
+
+if vocabulary.include?("zeimusho")
+    puts name + ': ' + vocabulary
+end
+
+if vocabulary.include?("zipcode")
+    puts name + ': ' + vocabulary
+end
+
+if vocabulary.include?("zokugara")
+    puts name + ': ' + vocabulary
+end
+

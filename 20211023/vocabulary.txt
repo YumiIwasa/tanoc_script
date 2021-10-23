@@ -1,0 +1,17 @@
+address
+asaas:receipt
+kingaku
+kubun
+n-kana
+name
+nonNegativeInteger
+shokugyo
+string
+tel-number
+y-kana
+yago
+yymm
+yymmdd
+zeimusho
+zipcode
+zokugara

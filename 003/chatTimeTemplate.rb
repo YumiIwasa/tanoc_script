@@ -1,3 +1,9 @@
+# ruby chatTimeTemplate.rb ほげおほげた 午前半休 私用
+# ↑のように引数をつけて実行する
+# 第1引数　氏名
+# 第2引数　全休とか午前半休とか午後半休とかの区分
+# 第3引数　理由
+
 require "date"
 
 day = Date.today

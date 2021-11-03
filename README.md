@@ -1,5 +1,5 @@
 # tanoc_script
-楽しいスクリプト
+スクリプト
 
 001
 vocabularyの数だけif文を作成するスクリプト

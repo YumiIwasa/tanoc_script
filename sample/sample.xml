@@ -1,0 +1,12 @@
+<root>
+    <a name="name1" type="animal">
+        <b>いぬ</b>
+        <b>ねこ</b>
+        <b>たぬき</b>
+        <b>きつね</b>
+    </a>
+    <a name="name2" type="animal">
+        <b>いるか</b>
+        <b>ぺんぎん</b>
+    </a>
+</root>
